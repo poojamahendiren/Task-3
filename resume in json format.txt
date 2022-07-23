@@ -1,0 +1,31 @@
+{
+  "basics":{
+    "name": "M.Pooja",
+    "email": "poojamahendiren99@gmail.com",
+    "phone": "7339185700",
+    "degree": "BE(ECE)",
+    "location": {
+      "address": "5/314,ABC street,PQR district",
+      "postalCode": "123456",
+      "city": "XYZ",
+      "region": "LMN"
+    },
+   },
+   
+  "education":
+    {
+      "institution": "ABC college of engineering",
+      "area": "Coimbatore",
+      "studyType": "Full time",
+      "startDate": "2017-08-28",
+      "endDate": "2021-07-30",
+      "gpa": "8.7"
+    },
+  
+  "work": 
+    {
+      "company": "Flex",
+      "position":"Senior analyst",
+      "summary": "To perform the planning and estimation for the requirements specific task/activities in a project"
+    }
+ }
